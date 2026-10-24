@@ -19,7 +19,7 @@ namespace jingahyun2693303
 void printBook(const book &b)
 {
     std::cout << "book id: " << b.id << std::endl;
-    std::cout << "book price: " << b.price << "won\n";
+    std::cout << "book price: " << b.price << endl;
     
 }
 
