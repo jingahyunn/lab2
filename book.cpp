@@ -1,4 +1,8 @@
-//pragma once
+namespace jingahyun2693303
+{
+book inputBook()
+{
+    book b{};//pragma once
 #ifndef BOOK_H
 #define BOOK_H
 
